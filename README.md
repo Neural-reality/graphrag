@@ -1,5 +1,19 @@
 # GraphRAG
 
+# Neural Reality Fork
+
+To get starte fork this repo and run the following commands:
+
+```pip install -r requirements.txt````
+
+
+
+
+
+
+
+# Orginal readme
+
 👉 [Use the GraphRAG Accelerator solution](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
 👉 [Microsoft Research Blog Post](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)<br/>
 👉 [Read the docs](https://microsoft.github.io/graphrag)<br/>
@@ -19,6 +33,8 @@
     <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/microsoft/graphrag">
   </a>
 </div>
+
+
 
 ## Overview
 
