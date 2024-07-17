@@ -2,9 +2,11 @@
 
 # Neural Reality Fork
 
-To get starte fork this repo and run the following commands:
+To get started with this fork clone this repo and run the following commands:
 
 ```pip install -r requirements.txt```
+
+After that refer to the [original documentation](https://microsoft.github.io/graphrag)
 
 
 
