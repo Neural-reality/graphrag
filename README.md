@@ -4,7 +4,9 @@
 
 To get starte fork this repo and run the following commands:
 
-```pip install -r requirements.txt````
+```pip install -r requirements.txt```
+
+
 
 
 
