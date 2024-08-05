@@ -1,0 +1,1662 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="level" attr.type="long" />
+  <key id="d7" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d6" for="node" attr.name="id" attr.type="string" />
+  <key id="d5" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d4" for="node" attr.name="degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;LILY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Lily is a significant character in "The Dead," serving as the caretaker who embodies the younger generation and the evolving social dynamics of the time. She has recently completed her schooling and exhibits a sense of bitterness towards men, reflecting her disillusionment with societal expectations. Additionally, Lily is the caretaker's daughter, who plays a role in assisting with the guests at the annual dance, where she engages in a friendly interaction with Gabriel. Through her character, Lily highlights the contrasts between the older and younger generations, as well as the shifting cultural landscape.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d3">"PERSON"</data>
+      <data key="d4">3</data>
+      <data key="d5">0</data>
+      <data key="d6">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;MISS KATE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Kate is one of the hosts of the annual dance, known for her gossiping and caring nature towards her family and guests."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">4</data>
+      <data key="d5">1</data>
+      <data key="d6">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;MISS JULIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Julia is another host of the annual dance, who shares a close relationship with her sister Kate and is involved in the festivities."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">4</data>
+      <data key="d5">2</data>
+      <data key="d6">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;GABRIEL CONROY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gabriel Conroy is a guest at the annual dance, who arrives late with his wife and engages in friendly banter with Lily and his aunts."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">3</data>
+      <data key="d5">3</data>
+      <data key="d6">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;FREDDY MALINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Freddy Malins is a character known for his jovial and animated personality, often expressing himself through laughter and storytelling. He admires Aunt Julia's singing and enthusiastically appreciates her performances, indicating a familiarity with her work over time. Freddy arrives at gatherings in a state described as "puffing and steaming" after exertions, and he is often expected to arrive late. His presence is noted by Gabriel, who observes that Freddy is likely under the influence of alcohol, which raises concern among the hosts and family members.
+
+Despite his struggles with alcohol consumption, Freddy engages actively in conversations, providing insights about various topics, including the lifestyle of monks and discussions about opera. He also questions racial biases regarding talent, showcasing his willingness to engage in deeper discussions. Overall, Freddy Malins is portrayed as a humorous and lively character, whose animated demeanor is sometimes overshadowed by his inebriation, leading to mixed feelings among those around him.</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a9f8ae681881b43894ea5064b2b782c3,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">11</data>
+      <data key="d5">4</data>
+      <data key="d6">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;MARY JANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Mary Jane is a vibrant and multifaceted character who plays a significant role in the social dynamics of her gatherings. She is the niece of Miss Kate and Miss Julia, contributing to the household by giving music lessons. During social events, Mary Jane showcases her leadership skills by organizing dances and engaging with guests, providing both commentary and laughter. Her attentiveness is evident as she serves hot floury potatoes to the attendees, reflecting her concern for their comfort and well-being.
+
+Mary Jane also takes on the role of a mediator, trying to navigate discussions and address the family's hunger and quarrelsomeness. Her lively personality shines through as she expresses excitement about Mr. D'Arcy's singing and actively participates in conversations with others. Additionally, she is a talented musician, captivating her audience with her piano performances of Academy pieces, although her music elicits mixed reactions, with some listeners enchanted while others choose to leave.
+
+As one of the good ladies hosting the gathering, Mary Jane shares in moments of pride and affection during Gabriel's speech, further solidifying her integral presence in the social fabric of the event. Overall, Mary Jane embodies a blend of hospitality, musical talent, and social leadership, making her a key figure in the gatherings she attends.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7906b6918bb14683bf565df106d781f0,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">10</data>
+      <data key="d5">5</data>
+      <data key="d6">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;THE ANNUAL DANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Annual Dance is a long-standing family tradition hosted by Miss Kate and Miss Julia, attended by family and friends, and known for its splendid style."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">2</data>
+      <data key="d5">6</data>
+      <data key="d6">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;USHER'S ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Usher's Island is the location of the dark, gaunt house where Miss Kate, Miss Julia, and Mary Jane live."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">2</data>
+      <data key="d5">7</data>
+      <data key="d6">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;STONEY BATTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stoney Batter is the previous residence of Miss Kate and Miss Julia before moving to Usher's Island."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;ANTIENT CONCERT ROOMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Antient Concert Rooms is a venue where Mary Jane holds her pupils' concert every year, indicating its cultural significance."</data>
+      <data key="d2">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d4">1</data>
+      <data key="d5">9</data>
+      <data key="d6">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;FRANK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frank is Eveline's love interest who represents the possibility of a new life and adventure."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">10</data>
+      <data key="d6">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;DUBLIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Dublin is a city that plays a significant role in the narrative surrounding Eveline, symbolizing her struggles and the life she wishes to escape. It serves as both her home and a representation of her internal conflicts. Additionally, Dublin is depicted as a destination for a woman traveling, marking a pivotal transition in her life and the overarching story. The city also acts as the backdrop for a gathering, highlighting its cultural significance and themes of hospitality and tradition, particularly in discussions led by Gabriel. Furthermore, Dublin is the setting for conversations about past singers and operatic performances, underscoring its rich cultural heritage. Overall, Dublin is intricately woven into the fabric of the characters' lives and the thematic elements of the narrative.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">8</data>
+      <data key="d5">11</data>
+      <data key="d6">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;THE SEA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The sea represents both a physical and metaphorical barrier for Eveline, symbolizing her fears and desires for freedom."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+      <data key="d6">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;THE SISTERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Sisters is a story that explores themes of innocence and the complexities of childhood through the character of a young boy reflecting on the death of a priest."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+      <data key="d6">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;FATHER FLYNN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Father Flynn is a priest whose death prompts reflections on his life and the impact he had on the young boy's understanding of morality."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">14</data>
+      <data key="d6">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;THE BOY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Boy is the protagonist in The Sisters, who grapples with his memories of Father Flynn and the implications of his death."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">15</data>
+      <data key="d6">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;THE BOARDING HOUSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Boarding House is a story that examines themes of control and desire through the character of a woman managing a boarding house and her relationship with a lodger."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">16</data>
+      <data key="d6">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;MRS. MOONEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Mooney is the owner of the boarding house who seeks to control the romantic relationship between her daughter and a lodger."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">17</data>
+      <data key="d6">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;BOB DORAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bob Doran is the lodger in Mrs. Mooney's boarding house, whose relationship with her daughter becomes a focal point of tension."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">18</data>
+      <data key="d6">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;THE DEAD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Dead is a story that culminates in a powerful moment of realization for Gabriel, reflecting on life, love, and mortality."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">19</data>
+      <data key="d6">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;GRETTA'S SONG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gretta's song is a poignant moment in The Dead that evokes memories of her past love, Michael Furey, and highlights the theme of nostalgia."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">20</data>
+      <data key="d6">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;THE MORKANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Morkans are the hosts of the party in The Dead, symbolizing the social and cultural milieu of Dublin."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">21</data>
+      <data key="d6">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;GABRIEL'S SPEECH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gabriel's speech at the party reflects his insecurities and the complexities of his relationship with Gretta."</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,5692e986b52d8ed0626fab7cba06cb73,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">0</data>
+      <data key="d5">22</data>
+      <data key="d6">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;GABRIEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Gabriel is a central character who plays a significant role in a family gathering, where he engages in a toast and reflects on the qualities of the three hostesses. Throughout the event, he experiences a range of emotions, including tension in his interactions, particularly with Miss Ivors, and he contemplates his feelings about his country. Gabriel is depicted as attentive and somewhat anxious about the unfolding events, especially concerning his wife, Gretta, and their family dynamics.
+
+He is filled with happiness and nostalgia as he reflects on moments shared with Gretta, longing for intimacy, yet he also grapples with feelings of desire and frustration in their interactions. His emotional complexity is further highlighted by his jealousy and insecurity upon learning about Gretta's past relationship with Michael Furey, which leads him to feel inadequate in her life.
+
+During the gathering, Gabriel is involved in various social dynamics, guiding Freddy Malins and observing the interactions among family members. He recounts humorous stories about his grandfather and takes the lead at the dinner table, showcasing his expertise in carving and engaging with guests. Despite his outward confidence, Gabriel is moody and contemplative, reflecting on his relationships and the expectations surrounding his marriage and family.
+
+He stands up to give a speech that touches on themes of hospitality, tradition, and the passage of time, revealing his pride and resentment regarding his family. Gabriel is characterized as a stout, tallish young man who is concerned about his appearance and the well-being of his family, particularly Gretta, the woman who mourns Michael Furey. This complex interplay of emotions and social interactions paints a vivid picture of Gabriel as a multifaceted character navigating the intricacies of family life and personal relationships.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,74edee0aca1c07d8499ca7f4c79d0589,7805ef6e8dfc08888e1ce53da8b8b565,7960b928f79f9d05de188396f541c52f,7a3a966658fbc8e6b4ebd8f4c42b5e18,80ccabbf5689631aa0c6338e17c02e09,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a8821a58bc087f9e98de50f921db9517,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">27</data>
+      <data key="d5">23</data>
+      <data key="d6">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;GRETTA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Gretta is a significant figure in Gabriel's life, serving as both his partner and wife. She evokes feelings of tenderness and desire in him, representing a profound emotional connection. Gretta is admired by Gabriel for her beauty, particularly during social gatherings, where her playful and light-hearted nature often shines through. However, Gabriel also expresses concern for her health, indicating a protective instinct towards her.
+
+Despite her vibrant exterior, Gretta possesses emotional depth and complexity. She reflects on her past love for Michael Furey, revealing a sense of nostalgia and longing that adds layers to her character. Additionally, Gretta is portrayed as weary and serious at times, with her thoughts often preoccupied by a song, suggesting an inner emotional struggle. This combination of playfulness, beauty, and emotional depth makes Gretta a multifaceted character in Gabriel's life.</data>
+      <data key="d2">7805ef6e8dfc08888e1ce53da8b8b565,7a3a966658fbc8e6b4ebd8f4c42b5e18,a8821a58bc087f9e98de50f921db9517,af80a88522f1be9faeed04228c491179,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">6</data>
+      <data key="d5">24</data>
+      <data key="d6">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;AUNT JULIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Aunt Julia is a multifaceted character who plays a significant role in the family dynamics during a gathering. She assists Aunt Kate in serving drinks to the guests and enters the scene carrying table-napkins, engaging in conversation with her. As a member of Gabriel's family, Aunt Julia embodies themes of loss and memory, reflecting on her past singing ability with pride. She contributes to the domestic atmosphere by preparing pudding and is actively involved in the family gathering.
+
+Aunt Julia is known for her spirited singing, performing an old song that earns her applause, showcasing her connection to music within the family. Additionally, she is recognized for her craftwork and possesses a sense of dignity regarding family life. Her observations about the weather and the beauty of snow add depth to her character, while her humorous interactions with Gabriel highlight her role as a host at the gathering, where she enjoys the attention.
+
+Despite the lighter mood of the event, Aunt Julia also exhibits a more serious and observant side, contrasting with the overall atmosphere. She is characterized by a slow demeanor and a flaccid face, suggesting a certain lack of awareness. Nevertheless, she is one of the three hostesses, known for her good heart, and is emotionally moved during the toast, further emphasizing her connection to the family and the gathering's significance.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,74edee0aca1c07d8499ca7f4c79d0589,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d7">9</data>
+      <data key="d8">1</data>
+      <data key="d4">6</data>
+      <data key="d5">25</data>
+      <data key="d6">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;AUNT KATE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Aunt Kate is a vivacious character in Gabriel's family, deeply concerned about the health and well-being of her relatives. She plays a significant role in overseeing social gatherings, where she engages in light-hearted banter and demonstrates compassion, particularly towards the old gentleman and her family members. Aunt Kate expresses strong opinions regarding the treatment of women in choirs and is a staunch defender of her sister, Aunt Julia. 
+
+During family events, she prefers serving plain roast goose and drinks, while also sharing her memories of singers and discussing the traditions of the monks, highlighting her connection to family heritage. Aunt Kate is known for her strong sense of family pride, as she supports Mary Jane during her performance and strives to maintain harmony throughout the evening, showing concern for the well-being of Mr. D'Arcy. 
+
+As one of the hostesses, she receives praise from Gabriel during his speech and displays a range of emotions during toasts, contributing to the overall dynamics of the family gathering. Her character embodies a blend of humor, concern, and a commitment to family values, making her a central figure in the family's social interactions.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,74edee0aca1c07d8499ca7f4c79d0589,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,a9f8ae681881b43894ea5064b2b782c3,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d7">9</data>
+      <data key="d8">1</data>
+      <data key="d4">7</data>
+      <data key="d5">26</data>
+      <data key="d6">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;MONKSTOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Monkstown is a significant location in the context of Gabriel and Gretta's travel plans, serving as a destination for the couple. Additionally, it holds personal importance for Gabriel, as it is the place where his mother spent her last days, thereby highlighting its emotional resonance in his memories.</data>
+      <data key="d2">9eee0c4efd1613f29f61083555090aff,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">27</data>
+      <data key="d6">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;CHRISTMAS-TIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Christmas-time is a festive period during which Gabriel gives Lily a coin, highlighting themes of generosity and social interaction."</data>
+      <data key="d2">ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d4">1</data>
+      <data key="d5">28</data>
+      <data key="d6">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;MRS. CONROY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Conroy is Gabriel's wife, who engages in light-hearted banter and expresses concern for their children during the gathering."</data>
+      <data key="d2">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d7">9</data>
+      <data key="d8">1</data>
+      <data key="d4">2</data>
+      <data key="d5">29</data>
+      <data key="d6">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;MR. BROWNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Mr. Browne is a lively character known for his enjoyment of whisky and his playful banter with the young ladies and gentlemen at the gathering. He introduces Aunt Julia and Miss Julia Morkan to the audience with a sense of humor and enthusiasm, showcasing a showman-like demeanor. As a guest, Mr. Browne engages with others, questioning the quality of contemporary singers and discussing the practices of monks, which adds depth to the conversations. He is noted for his attentiveness and jovial nature, often attempting to charm the ladies with his humor and offering them drinks. Additionally, he encourages everyone to sit down and eat, actively participating in discussions about opera, further contributing to the lively atmosphere of the gathering.</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f,74edee0aca1c07d8499ca7f4c79d0589,7906b6918bb14683bf565df106d781f0,7960b928f79f9d05de188396f541c52f,a47ff28731d3048e51920471b64f324e,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">8</data>
+      <data key="d5">30</data>
+      <data key="d6">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;MISS DALY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Daly is a young lady at the gathering who plays the piano and is acknowledged for her performance."</data>
+      <data key="d2">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d4">1</data>
+      <data key="d5">31</data>
+      <data key="d6">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;MISS POWER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Miss Power is a young lady who is mentioned as a potential dance partner, indicating her active participation in the social event. She is also noted to be present at the gathering, engaging in the social interactions that take place.</data>
+      <data key="d2">7960b928f79f9d05de188396f541c52f,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">1</data>
+      <data key="d5">32</data>
+      <data key="d6">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;THE GRESHAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Gresham is a hotel where Gabriel has booked a room for the night, indicating a temporary separation from family responsibilities."</data>
+      <data key="d2">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d7">11</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">33</data>
+      <data key="d6">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;THE GATHERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Gathering" is a significant event characterized by a speech delivered by Gabriel, which celebrates hospitality while reflecting on both the past and present. This event serves as a family gathering where various relatives and friends come together, fostering an atmosphere filled with laughter, concern, and social interactions. It is marked by humorous exchanges among the characters, highlighting the importance of familial bonds and the shared experiences that connect them. Overall, "The Gathering" encapsulates a rich tapestry of relationships and emotions, making it a pivotal occasion for the participants.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,7960b928f79f9d05de188396f541c52f,a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d7">11</data>
+      <data key="d8">1</data>
+      <data key="d4">4</data>
+      <data key="d5">34</data>
+      <data key="d6">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;MR. BERGIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Bergin is a gentleman mentioned as a partner for the dance, indicating his involvement in the social event."</data>
+      <data key="d2">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">1</data>
+      <data key="d5">35</data>
+      <data key="d6">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;MR. KERRIGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Kerrigan is another gentleman present at the gathering, asked to take a partner for the dance."</data>
+      <data key="d2">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">1</data>
+      <data key="d5">36</data>
+      <data key="d6">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;MISS FURLONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Miss Furlong is a guest at a dinner where she requests a small slice of the breast from Gabriel. Additionally, she is a pupil of Mary Jane and is actively involved in the social gathering and dance associated with the event.</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">2</data>
+      <data key="d5">37</data>
+      <data key="d6">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;THE DANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Dance is a social event where characters interact, partner up, and engage in music and merriment."</data>
+      <data key="d2">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d4">2</data>
+      <data key="d5">38</data>
+      <data key="d6">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;CONSTANTINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Constantine is the son of Gabriel's mother, who is noted for being a senior curate in Balbriggan."</data>
+      <data key="d2">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d4">1</data>
+      <data key="d5">39</data>
+      <data key="d6">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;THE DAILY EXPRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Daily Express is a publication for which Gabriel writes a literary column, leading to a conflict with Miss Ivors regarding his political stance."</data>
+      <data key="d2">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">40</data>
+      <data key="d6">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;BALBRIGGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Balbriggan is a location where Constantine serves as a senior curate, indicating a connection to Gabriel's family."</data>
+      <data key="d2">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d4">1</data>
+      <data key="d5">41</data>
+      <data key="d6">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;LANCERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lancers is a social dance event in which Gabriel participates, indicating a cultural aspect of the gathering."</data>
+      <data key="d2">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">42</data>
+      <data key="d6">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;MISS IVORS&quot;">
+      <data key="d0" />
+      <data key="d1">Miss Ivors is a character known for her independence and spirited nature. She is a friend of Gabriel, who challenges him regarding his lack of interest in visiting Ireland, expressing her own enthusiasm for a trip to the Aran Isles. Although she declines an invitation to stay for supper, her absence from the gathering prompts Gabriel to reflect on her discourteous departure, highlighting the impact she has on him and the dynamics of their relationship.</data>
+      <data key="d2">02a9fb60be8ace05179afa01bb2d5e8c,80ccabbf5689631aa0c6338e17c02e09,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">2</data>
+      <data key="d5">43</data>
+      <data key="d6">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;FREDDY MALINS' MOTHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Freddy Malins' Mother is an elderly woman who visits Dublin annually and shares her experiences of traveling and her family life in Glasgow."</data>
+      <data key="d2">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d4">1</data>
+      <data key="d5">44</data>
+      <data key="d6">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;ARAN ISLES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Aran Isles are a destination proposed by Miss Ivors for a summer excursion, located in the Atlantic Ocean."</data>
+      <data key="d2">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">45</data>
+      <data key="d6">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;GLASGOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Glasgow is a city in Scotland where Freddy Malins' Mother resides with her married daughter."</data>
+      <data key="d2">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d4">1</data>
+      <data key="d5">46</data>
+      <data key="d6">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;IRELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Ireland is a geographical location known for its diverse landscapes, including the central plain and the Bog of Allen, which are affected by snowfall. This weather phenomenon plays a significant role in the environment of Ireland. Additionally, Ireland is depicted as a country with cultural significance, as illustrated by the character Gabriel, who expresses discontent with it. Miss Ivors, another character, encourages Gabriel to explore the country further, highlighting its importance in the narrative. Overall, Ireland serves as both a physical setting with notable weather patterns and a cultural backdrop that influences the characters' experiences and interactions.</data>
+      <data key="d2">80ccabbf5689631aa0c6338e17c02e09,af80a88522f1be9faeed04228c491179,c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d4">5</data>
+      <data key="d5">47</data>
+      <data key="d6">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University is where Gabriel and Miss Ivors have had parallel careers as teachers, indicating a shared academic background."</data>
+      <data key="d2">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">48</data>
+      <data key="d6">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;MRS. MALINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Malins is a character who shares stories about her family and expresses excitement about beautiful places, particularly in Scotland."</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d4">2</data>
+      <data key="d5">49</data>
+      <data key="d6">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;GALWAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Galway is a location in Ireland that holds significant emotional and narrative importance. It is described as a place of beauty that Mrs. Malins wishes to see again, highlighting its allure and personal significance. Additionally, Galway is noted as the departure point for a woman traveling to Dublin, underscoring its role in the storyline. Furthermore, it is a site rich in memories for Gretta, who lived there with her grandmother and had a meaningful relationship with Michael Furey. Collectively, these descriptions illustrate Galway as a cherished and pivotal location in the lives of the characters, intertwined with themes of nostalgia and personal history.</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f,7a3a966658fbc8e6b4ebd8f4c42b5e18,83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d4">4</data>
+      <data key="d5">50</data>
+      <data key="d6">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;SCOTLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scotland is referenced as a location known for its beautiful scenery, as described by Mrs. Malins."</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d4">1</data>
+      <data key="d5">51</data>
+      <data key="d6">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;THE SUPPER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Supper is an event occurring in the narrative where characters gather, converse, and perform, creating a social atmosphere."</data>
+      <data key="d2">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d4">2</data>
+      <data key="d5">52</data>
+      <data key="d6">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;MISS JULIA MORKAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Julia Morkan is a character whose singing ability is highlighted, and she is introduced as a discovery by Mr. Browne."</data>
+      <data key="d2">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d4">2</data>
+      <data key="d5">53</data>
+      <data key="d6">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;SUPPER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Supper is the meal that the characters are preparing to enjoy, which serves as a backdrop for their discussions and interactions."</data>
+      <data key="d2">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d4">1</data>
+      <data key="d5">54</data>
+      <data key="d6">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;THE CHOIR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Choir is referenced as a place where Aunt Julia has spent much of her time, indicating a traditional role for women in music."</data>
+      <data key="d2">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d4">1</data>
+      <data key="d5">55</data>
+      <data key="d6">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;MR. CONROY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Conroy is another name for Gabriel, who serves food to the guests at the table."</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d4">0</data>
+      <data key="d5">56</data>
+      <data key="d6">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;MISS HIGGINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss Higgins is a guest who expresses her willingness to eat anything offered by Gabriel."</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">57</data>
+      <data key="d6">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Mr. Bartell D'Arcy is a character who plays a significant role in the social dynamics of an evening out with companions Gabriel and Gretta in Dublin. He is engaged in discussions about singers and the cultural landscape of the city, showcasing his interest in the arts. As a tenor, Mr. D'Arcy expresses admiration for the leading contralto of the opera company, highlighting his appreciation for musical talent. However, his own ability to perform is hindered by a cold, which leads to disappointment among the guests present. Despite this setback, he remains an active participant in the conversation surrounding singing and the cultural scene.</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0,a8821a58bc087f9e98de50f921db9517,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d4">9</data>
+      <data key="d5">58</data>
+      <data key="d6">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;THEATRE ROYAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Theatre Royal is a venue where an opera company is performing, mentioned in the context of the dinner conversation."</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d4">1</data>
+      <data key="d5">59</data>
+      <data key="d6">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;GAIETY PANTOMIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Gaiety Pantomime is an event referenced in the conversation, highlighting a performance featuring a negro chieftain."</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d4">0</data>
+      <data key="d5">60</data>
+      <data key="d6">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;MIGNON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mignon is an opera that Mary Jane mentions, indicating her interest in the performance."</data>
+      <data key="d2">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d4">1</data>
+      <data key="d5">61</data>
+      <data key="d6">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;ILMA DE MURZKA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ilma de Murzka is mentioned as part of a nostalgic recollection of singers in Dublin, indicating a connection to the music scene."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">62</data>
+      <data key="d6">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;CAMPANINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Campanini is referenced in the context of notable singers from the past, contributing to the discussion about the quality of contemporary singers."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">63</data>
+      <data key="d6">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;TREBELLI GIUGLINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Trebelli Giuglini is included in a list of celebrated singers, highlighting the rich history of opera in Dublin."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">64</data>
+      <data key="d6">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;RAVELLI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ravelli is mentioned among famous singers, suggesting a significant role in the operatic tradition."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">65</data>
+      <data key="d6">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;ARAMBURO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aramburo is noted as part of the historical context of singing in Dublin, contributing to the nostalgia of the conversation."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">66</data>
+      <data key="d6">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;ROYAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal refers to the old Royal venue in Dublin, which hosted performances and was a significant part of the music scene."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d4">0</data>
+      <data key="d5">67</data>
+      <data key="d6">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;CARUSO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Caruso is mentioned as a renowned tenor, representing the high standards of singing that the characters reminisce about."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d4">1</data>
+      <data key="d5">68</data>
+      <data key="d6">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;PARKINSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Parkinson is recalled by Aunt Kate as a tenor with a pure voice, indicating his importance in the history of singing."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">9</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">69</data>
+      <data key="d6">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;MOUNT MELLERAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Melleray is a location mentioned in the context of a monastery known for its hospitable monks, contributing to the conversation about spirituality and hospitality."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d4">2</data>
+      <data key="d5">70</data>
+      <data key="d6">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;THE PUDDING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Pudding is a central dish served during the gathering, symbolizing family and tradition."</data>
+      <data key="d2">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d7">9</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">71</data>
+      <data key="d6">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;THE THREE GRACES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Three Graces refers to the three hostesses being honored during the toast, symbolizing their importance in the Dublin musical world."</data>
+      <data key="d2">74edee0aca1c07d8499ca7f4c79d0589</data>
+      <data key="d7">10</data>
+      <data key="d8">1</data>
+      <data key="d4">2</data>
+      <data key="d5">72</data>
+      <data key="d6">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;JOHNNY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Johnny is a horse owned by the old gentleman, known for his role in driving the mill and later causing a humorous incident during a military review."</data>
+      <data key="d2">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d7">11</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">73</data>
+      <data key="d6">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;PATRICK MORKAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patrick Morkan, referred to as the old gentleman, is Gabriel's grandfather, known for his glue-boiling and starch milling activities."</data>
+      <data key="d2">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">74</data>
+      <data key="d6">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;TRINITY COLLEGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Trinity College is a location mentioned as a destination for the cab, indicating its significance in the narrative."</data>
+      <data key="d2">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d4">1</data>
+      <data key="d5">75</data>
+      <data key="d6">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;THE MILITARY REVIEW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Military Review is an event that the old gentleman and Johnny were supposed to attend, which leads to a comedic incident."</data>
+      <data key="d2">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d7">11</data>
+      <data key="d8">1</data>
+      <data key="d4">2</data>
+      <data key="d5">76</data>
+      <data key="d6">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;MISS O'CALLAGHAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miss O'Callaghan is a character who supports Mary Jane in encouraging Mr. D'Arcy to sing and expresses concern for his health."</data>
+      <data key="d2">af80a88522f1be9faeed04228c491179</data>
+      <data key="d4">1</data>
+      <data key="d5">77</data>
+      <data key="d6">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;THE LASS OF AUGHRIM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lass of Aughrim" is a poignant song performed by Mr. D'Arcy, which captures the attention of Gretta and others in the narrative. This song elicits deep emotions in Gretta, marking a significant moment of vulnerability for her. It serves as a powerful reminder of her past relationship with Michael Furey, further intensifying the emotional impact of the scene. Through its evocative nature, "The Lass of Aughrim" becomes a crucial element in the story, highlighting themes of memory and longing.</data>
+      <data key="d2">7805ef6e8dfc08888e1ce53da8b8b565,7a3a966658fbc8e6b4ebd8f4c42b5e18,af80a88522f1be9faeed04228c491179</data>
+      <data key="d4">1</data>
+      <data key="d5">78</data>
+      <data key="d6">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;CHRISTMAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Christmas is depicted as a time of social interaction and gathering, highlighted by an instance where Gabriel lent Malins a pound, suggesting a friendly exchange during the holiday season. Additionally, the significance of snow is discussed in relation to Christmas, emphasizing its importance and the atmosphere it creates during this festive time.</data>
+      <data key="d2">7805ef6e8dfc08888e1ce53da8b8b565,af80a88522f1be9faeed04228c491179</data>
+      <data key="d4">2</data>
+      <data key="d5">79</data>
+      <data key="d6">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;O'CONNELL BRIDGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"O'Connell Bridge is a notable location in the narrative, associated with a local saying about seeing a white horse."</data>
+      <data key="d2">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d4">3</data>
+      <data key="d5">80</data>
+      <data key="d6">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;THE PALACE OF THE FOUR COURTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Palace of the Four Courts is a prominent building across the river, described as menacing against the heavy sky."</data>
+      <data key="d2">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d4">1</data>
+      <data key="d5">81</data>
+      <data key="d6">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;THE HOTEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hotel is where Gabriel and Gretta are staying, serving as a backdrop for their intimate moments and reflections."</data>
+      <data key="d2">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d4">2</data>
+      <data key="d5">82</data>
+      <data key="d6">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;NEW YEAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"New Year is referenced in a greeting exchanged between Gabriel and the cab driver, symbolizing a time of renewal and hope."</data>
+      <data key="d2">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">83</data>
+      <data key="d6">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;MALINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Malins is referenced as a decent fellow who has a history with Gabriel, particularly regarding a loan, suggesting a connection to Gabriel's social circle."</data>
+      <data key="d2">7805ef6e8dfc08888e1ce53da8b8b565</data>
+      <data key="d4">2</data>
+      <data key="d5">84</data>
+      <data key="d6">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;BROWNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Browne is mentioned as someone Malins associates with, implying a negative influence on Malins' character."</data>
+      <data key="d2">7805ef6e8dfc08888e1ce53da8b8b565</data>
+      <data key="d4">1</data>
+      <data key="d5">85</data>
+      <data key="d6">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;MICHAEL FUREY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Michael Furey is a poignant character whose life and untimely death profoundly influence the emotions of Gabriel, the protagonist, and his wife, Gretta. He is depicted as a young boy from Gretta's past, whose early demise left a lasting emotional imprint on her. Michael Furey is buried in a churchyard, and his memory is evoked through evocative imagery, particularly the snow falling on his grave, which symbolizes both loss and the enduring impact of love. His story encapsulates themes of love, memory, and the emotional complexities that arise from past relationships.</data>
+      <data key="d2">7a3a966658fbc8e6b4ebd8f4c42b5e18,83cea6a5f28a6ec4d8a3832c06ec4591,c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d4">6</data>
+      <data key="d5">86</data>
+      <data key="d6">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;OUGHTERARD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oughterard is the burial place of Michael Furey, symbolizing the finality of his love and the impact of his death."</data>
+      <data key="d2">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d4">2</data>
+      <data key="d5">87</data>
+      <data key="d6">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;THE CONVENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Convent is where the woman is going, representing a place of change and possibly spiritual significance."</data>
+      <data key="d2">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d7">8</data>
+      <data key="d8">1</data>
+      <data key="d4">1</data>
+      <data key="d5">88</data>
+      <data key="d6">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;THE CHURCHYARD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Churchyard" is a location situated on a hill, serving as the final resting place of Michael Furey. It symbolizes a space of rest, reflection, death, and remembrance, encapsulating the themes of loss and the enduring memory of those who have passed.</data>
+      <data key="d2">83cea6a5f28a6ec4d8a3832c06ec4591,c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d4">2</data>
+      <data key="d5">89</data>
+      <data key="d6">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;BOG OF ALLEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bog of Allen is a specific location in Ireland where snow is falling, contributing to the serene and melancholic atmosphere of the scene."</data>
+      <data key="d2">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d4">2</data>
+      <data key="d5">90</data>
+      <data key="d6">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;SHANNON WAVES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Shannon Waves refer to the waters of the River Shannon, which are described as dark and mutinous, also experiencing snowfall."</data>
+      <data key="d2">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d4">2</data>
+      <data key="d5">91</data>
+      <data key="d6">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <edge source="&quot;LILY&quot;" target="&quot;GABRIEL CONROY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Lily assists Gabriel when he arrives at the dance, indicating a friendly relationship between them."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;LILY&quot;" target="&quot;GABRIEL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel interacts with Lily in a friendly manner, but their conversation reveals underlying tensions regarding gender expectations."</data>
+      <data key="d11">ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;LILY&quot;" target="&quot;CHRISTMAS-TIME&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel gives Lily a coin during Christmas-time, highlighting themes of generosity and social interaction during the festive season."</data>
+      <data key="d11">ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d13">2</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS KATE&quot;" target="&quot;MISS JULIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss Kate and Miss Julia are sisters who co-host the annual dance, showcasing their close familial bond."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d13">3</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS KATE&quot;" target="&quot;GABRIEL CONROY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel is a family member who interacts with Miss Kate during the dance, indicating a familial relationship."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d13">4</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS KATE&quot;" target="&quot;MARY JANE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane is the niece of Miss Kate, indicating a familial relationship and shared responsibilities in the household."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d13">5</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS KATE&quot;" target="&quot;FREDDY MALINS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss Kate expresses concern about Freddy Malins arriving late and potentially under the influence, indicating a protective relationship."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d13">6</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS JULIA&quot;" target="&quot;GABRIEL CONROY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel shares a friendly relationship with Miss Julia, as he interacts with her upon arrival at the dance."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d13">7</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS JULIA&quot;" target="&quot;MARY JANE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane is also the niece of Miss Julia, highlighting the family connection and shared involvement in the dance."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d13">8</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS JULIA&quot;" target="&quot;FREDDY MALINS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss Julia shares the concern about Freddy Malins, indicating a mutual awareness of his behavior and its impact on the event."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">5c41f96be13e49dba649454297834546</data>
+      <data key="d13">9</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;GABRIEL&quot;">
+      <data key="d9">3.0</data>
+      <data key="d10">Freddy Malins and Gabriel share a dynamic relationship characterized by contrasting personalities and a strong bond. Freddy is known for his animated personality, which stands in stark contrast to Gabriel's more reflective nature. This difference highlights their unique approaches to social interactions. Gabriel exhibits a protective attitude towards Freddy, expressing concern for his well-being, which underscores the depth of their connection. Additionally, Gabriel is seen guiding Freddy, further indicating a supportive relationship between the two. Together, they navigate their interactions, with Gabriel providing a stabilizing influence in Freddy's life.</data>
+      <data key="d11">7960b928f79f9d05de188396f541c52f,9eee0c4efd1613f29f61083555090aff,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d13">10</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;MR. BROWNE&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">Freddy Malins and Mr. Browne share a friendly relationship, as evidenced by Mr. Browne's engagement in conversation with Freddy and his offer of a drink. Their camaraderie is further highlighted by Mr. Browne's support of Freddy Malins' inquiry regarding the negro chieftain, demonstrating a mutual interest in the subject matter.</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d13">11</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;THE DANCE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins is a participant in The Dance, contributing to the lively interactions and storytelling."</data>
+      <data key="d11">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d13">12</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;AUNT JULIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins expresses admiration for Aunt Julia's singing, indicating a supportive relationship during the performance."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d13">13</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;THE SUPPER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins actively engages in the social atmosphere of The Supper, particularly in his interaction with Aunt Julia."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d13">14</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;MISS JULIA MORKAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins acknowledges Miss Julia Morkan's singing ability, indicating a shared history and appreciation for her talent."</data>
+      <data key="d11">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d12">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d13">15</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins engages Mr. Bartell D'Arcy in conversation about the opera, indicating a social interaction between them."</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d13">16</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;MOUNT MELLERAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins discusses the monks at Mount Melleray, indicating his interest in their lifestyle and beliefs."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d13">17</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS&quot;" target="&quot;TRINITY COLLEGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins is involved in the cab confusion regarding the destination of Trinity College, indicating a connection to the event of the gathering."</data>
+      <data key="d11">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d12">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d13">18</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;MR. BERGIN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane organizes the dance and pairs Mr. Bergin with a partner, showing her role in the event."</data>
+      <data key="d11">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d13">19</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;MISS FURLONG&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss Furlong is a pupil of Mary Jane, indicating a mentor-student relationship in the context of the social event."</data>
+      <data key="d11">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d13">20</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;GABRIEL&quot;">
+      <data key="d9">4.0</data>
+      <data key="d10">Gabriel and Mary Jane share a close family relationship characterized by moments of laughter and banter, highlighting their strong bond. During a gathering, Gabriel expresses his appreciation for the hosts and includes Mary Jane in his praise, emphasizing the collective contributions of the good ladies present. He also reflects on Mary Jane's musical performance, showcasing his emotional connection to her talent. Additionally, Mary Jane demonstrates her support for Gabriel by assisting him in serving hot potatoes, further illustrating their teamwork and collaboration during the meal.</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c,74edee0aca1c07d8499ca7f4c79d0589,9eee0c4efd1613f29f61083555090aff,e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d13">21</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;AUNT KATE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane intervenes in Aunt Kate's passionate defense of Aunt Julia, showing family dynamics and concern for the group's mood."</data>
+      <data key="d11">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d12">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d13">22</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;MIGNON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane expresses her interest in attending the opera Mignon, indicating her engagement with the arts."</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d13">23</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;AUNT JULIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane assists Aunt Julia with serving The Pudding, showing their familial connection and cooperation."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d13">24</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;MR. BROWNE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne and Mary Jane engage in playful conversation, indicating a friendly rapport between them."</data>
+      <data key="d11">74edee0aca1c07d8499ca7f4c79d0589</data>
+      <data key="d12">599164aead034bc19446efacc77554d2</data>
+      <data key="d13">25</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARY JANE&quot;" target="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane expresses disappointment towards Mr. D'Arcy for not singing, indicating her enthusiasm for his talent."</data>
+      <data key="d11">af80a88522f1be9faeed04228c491179</data>
+      <data key="d12">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d13">26</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE ANNUAL DANCE&quot;" target="&quot;USHER'S ISLAND&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Annual Dance takes place at Usher's Island, making the location significant to the event."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d13">27</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE ANNUAL DANCE&quot;" target="&quot;ANTIENT CONCERT ROOMS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mary Jane's pupils' concert is an event related to the Annual Dance, showcasing the cultural activities associated with the family."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d13">28</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;USHER'S ISLAND&quot;" target="&quot;STONEY BATTER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Stoney Batter is the previous home of Miss Kate and Miss Julia before they moved to Usher's Island, indicating a historical connection."</data>
+      <data key="d11">5692e986b52d8ed0626fab7cba06cb73</data>
+      <data key="d12">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d13">29</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;ILMA DE MURZKA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ilma de Murzka is part of the historical narrative of singers in Dublin, linking her to the city's cultural heritage."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d13">30</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;CAMPANINI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Campanini is mentioned in the context of Dublin's operatic history, indicating his relevance to the city's music scene."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d13">31</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;TREBELLI GIUGLINI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Trebelli Giuglini is referenced as a notable singer from Dublin's past, contributing to the city's musical legacy."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d13">32</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;RAVELLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ravelli's mention in the context of Dublin's singing history connects him to the city's cultural identity."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d13">33</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;ARAMBURO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Aramburo is included in the nostalgic discussion about Dublin's singers, linking him to the city's operatic tradition."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d13">34</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;THE GATHERING&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Gathering takes place in Dublin, linking the cultural significance of the location to the event being celebrated."</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c</data>
+      <data key="d12">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d13">35</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;THE THREE GRACES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The gathering honoring the Three Graces takes place in Dublin, linking the location to the event."</data>
+      <data key="d11">74edee0aca1c07d8499ca7f4c79d0589</data>
+      <data key="d12">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d13">36</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DUBLIN&quot;" target="&quot;GALWAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The woman's journey from Galway to Dublin signifies a transition in her life, marking a significant change in the narrative."</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d12">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d13">37</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;GRETTA&quot;">
+      <data key="d9">5.0</data>
+      <data key="d10">Gabriel and Gretta share a complex and emotionally charged relationship characterized by admiration, intimacy, and underlying tension. Gabriel is deeply affected by Gretta's beauty and presence during social gatherings, which highlights his emotional connection to her. Their relationship is marked by an intimate moment that underscores Gabriel's desire to understand Gretta's feelings more profoundly.
+
+However, this connection is complicated by Gabriel's feelings of jealousy and insecurity, particularly when he learns about Gretta's past love for Michael Furey. This revelation creates tension between them, as Gabriel grapples with his emotions and the implications of Gretta's history. Despite these challenges, Gabriel reflects on their shared memories and his longing for greater intimacy with Gretta.
+
+Additionally, Gabriel demonstrates a caring nature by showing concern for Gretta's health and well-being, further indicating the depth of their relationship. Overall, their bond is a blend of admiration, emotional connection, and the complexities that arise from past experiences.</data>
+      <data key="d11">7805ef6e8dfc08888e1ce53da8b8b565,7a3a966658fbc8e6b4ebd8f4c42b5e18,a8821a58bc087f9e98de50f921db9517,af80a88522f1be9faeed04228c491179,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d13">38</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;AUNT KATE&quot;">
+      <data key="d9">7.0</data>
+      <data key="d10">Aunt Kate and Gabriel share a close familial relationship characterized by mutual concern and support. Aunt Kate expresses her worries for both Gabriel and Freddy Malins, indicating her deep care for her family. She is particularly concerned about Gabriel's decisions regarding Gretta's health, demonstrating her protective nature and commitment to family well-being. Additionally, Aunt Kate shows her support for Mary Jane during her performance, reflecting a shared appreciation for music and the importance of family bonds.
+
+Gabriel acknowledges Aunt Kate's role as one of the hosts during his speech, which highlights her significance in the tradition of hospitality within their family. Their interactions often include light-hearted exchanges, showcasing their shared humor and the warmth of their relationship. Overall, the connection between Gabriel and Aunt Kate is marked by a blend of concern, support, and familial affection, reinforcing the importance of family ties in their lives.</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c,74edee0aca1c07d8499ca7f4c79d0589,7960b928f79f9d05de188396f541c52f,9eee0c4efd1613f29f61083555090aff,a9f8ae681881b43894ea5064b2b782c3,ee37cc4e74e3571d2beb941cbfd81b56,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d13">39</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;AUNT JULIA&quot;">
+      <data key="d9">6.0</data>
+      <data key="d10">Gabriel shares a close familial bond with Aunt Julia, as evidenced by the affection shown by both Aunt Julia and Aunt Kate towards him. During a toast, Gabriel acknowledges Aunt Julia's good heart, which highlights their mutual respect and the strength of their relationship. He humorously references her in his speech, underscoring her significance in the gathering and the tradition of hospitality that she embodies. Gabriel is also present at an event where Aunt Julia performs, reflecting on her singing and the dynamics of the occasion. He recalls her pride in family life, which connects him to his family heritage. However, Gabriel is also confronted with the somber reality of Aunt Julia's impending death, which brings forth themes of mortality and the importance of family in his reflections. Overall, the interactions and memories shared between Gabriel and Aunt Julia illustrate a deep and meaningful connection rooted in love, respect, and the complexities of family life.</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c,43a45e2e64b263da94f656d6ed01d42f,74edee0aca1c07d8499ca7f4c79d0589,83cea6a5f28a6ec4d8a3832c06ec4591,9eee0c4efd1613f29f61083555090aff,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d13">40</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MONKSTOWN&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">Gabriel has a notable connection to Monkstown, as he mentions his travel plans to this location, which reflects his family dynamics. Monkstown holds particular significance in Gabriel's memories, especially in relation to his mother, thereby linking his personal history to this place.</data>
+      <data key="d11">9eee0c4efd1613f29f61083555090aff,ff92e8967a363bb7ecd1984172dee56a</data>
+      <data key="d12">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d13">41</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MRS. CONROY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel and Mrs. Conroy are husband and wife, sharing a familial bond and mutual concern for their children during the gathering."</data>
+      <data key="d11">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d12">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d13">42</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE DAILY EXPRESS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel writes for The Daily Express, which leads to a conflict with Miss Ivors regarding his political identity."</data>
+      <data key="d11">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d12">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d13">43</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;LANCERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel participates in the Lancers event, indicating his involvement in social and cultural activities."</data>
+      <data key="d11">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d12">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d13">44</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MISS IVORS&quot;">
+      <data key="d9">4.0</data>
+      <data key="d10">Gabriel and Miss Ivors share a long-standing friendship that is marked by underlying tensions related to national identity and personal choices. Their interactions reveal a complex dynamic; for instance, Gabriel expresses concern for Miss Ivors by offering to see her home, which suggests a level of care and connection between them. However, this connection is complicated by Miss Ivors' confrontation with Gabriel regarding his writing for The Daily Express, highlighting a significant point of contention in their relationship. Additionally, Gabriel reflects on Miss Ivors' absence during his speech, indicating that her departure has a personal impact on him and further emphasizing the emotional intricacies of their friendship. Overall, their relationship is characterized by both a deep bond and significant disagreements that challenge their connection.</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c,80ccabbf5689631aa0c6338e17c02e09,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e</data>
+      <data key="d12">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d13">45</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;IRELAND&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel expresses a strong discontent with his own country, which Miss Ivors challenges during their conversation."</data>
+      <data key="d11">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d12">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d13">46</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;UNIVERSITY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel and Miss Ivors share a history of working at the University, which forms a basis for their friendship and professional interactions."</data>
+      <data key="d11">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d12">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d13">47</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE SUPPER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel is involved in the social interactions and reflections during The Supper, indicating his participation in the event."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d13">48</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MISS FURLONG&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel serves food to Miss Furlong, showcasing his role as the carver at the dinner table."</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d13">49</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MISS HIGGINS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel offers food to Miss Higgins, indicating his role in serving the guests."</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d13">50</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE GATHERING&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel's speech is central to The Gathering, as it encapsulates the themes of hospitality and tradition being celebrated."</data>
+      <data key="d11">02a9fb60be8ace05179afa01bb2d5e8c</data>
+      <data key="d12">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d13">51</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE THREE GRACES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel leads the toast to honor the Three Graces, emphasizing their significance in the gathering."</data>
+      <data key="d11">74edee0aca1c07d8499ca7f4c79d0589</data>
+      <data key="d12">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d13">52</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;PATRICK MORKAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel recounts stories about his grandfather, Patrick Morkan, highlighting family history and humor."</data>
+      <data key="d11">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d12">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d13">53</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel interacts with Mr. Bartell D'Arcy during their outing, indicating a social relationship among friends."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d13">54</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;O'CONNELL BRIDGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel references O'Connell Bridge in conversation, indicating its significance in the local culture and his experience."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d13">55</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE HOTEL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel and Gretta's stay at The Hotel serves as a setting for their intimate moments and reflections on their relationship."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d13">56</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;NEW YEAR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel's interaction with the cab driver about New Year reflects a moment of connection and goodwill during their outing."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d13">57</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MALINS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel discusses Malins with Gretta, indicating a social connection and concern for Malins' character."</data>
+      <data key="d11">7805ef6e8dfc08888e1ce53da8b8b565</data>
+      <data key="d12">db541b7260974db8bac94e953009f60e</data>
+      <data key="d13">58</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;CHRISTMAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel recalls lending Malins money at Christmas, linking his past social interactions to the present narrative."</data>
+      <data key="d11">7805ef6e8dfc08888e1ce53da8b8b565</data>
+      <data key="d12">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d13">59</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;MICHAEL FUREY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel reflects on Michael Furey's death and its emotional impact on his wife, indicating a connection through shared grief."</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d12">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d13">60</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GABRIEL&quot;" target="&quot;THE CONVENT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gabriel's wife is going to the Convent, which signifies a change in her life and indirectly affects Gabriel."</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d12">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d13">61</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GRETTA&quot;" target="&quot;THE LASS OF AUGHRIM&quot;">
+      <data key="d9">3.0</data>
+      <data key="d10">Gretta, a character deeply connected to her emotions and past, shows a significant interest in the song Mr. D'Arcy was singing, which reflects her emotional connection to music. Her reaction to the song "The Lass of Aughrim" is particularly profound, as it reveals her inner turmoil and evokes memories of Michael Furey, a figure from her past. This song holds great emotional significance for Gretta, serving as a poignant reminder of her experiences and feelings associated with Furey.</data>
+      <data key="d11">7805ef6e8dfc08888e1ce53da8b8b565,7a3a966658fbc8e6b4ebd8f4c42b5e18,af80a88522f1be9faeed04228c491179</data>
+      <data key="d12">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d13">62</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GRETTA&quot;" target="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gretta is part of the social group that includes Mr. Bartell D'Arcy, contributing to the dynamics of their evening together."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">7282c73622b8408e97289d959faff483</data>
+      <data key="d13">63</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GRETTA&quot;" target="&quot;THE HOTEL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gretta's presence at The Hotel alongside Gabriel highlights their shared experiences and intimacy in that setting."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d13">64</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GRETTA&quot;" target="&quot;MICHAEL FUREY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gretta had a romantic relationship with Michael Furey, which deeply affected her and continues to influence her feelings in the present."</data>
+      <data key="d11">7a3a966658fbc8e6b4ebd8f4c42b5e18</data>
+      <data key="d12">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d13">65</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GRETTA&quot;" target="&quot;GALWAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gretta's memories of Galway are tied to her past with Michael Furey, making the location significant to her emotional narrative."</data>
+      <data key="d11">7a3a966658fbc8e6b4ebd8f4c42b5e18</data>
+      <data key="d12">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d13">66</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT JULIA&quot;" target="&quot;AUNT KATE&quot;">
+      <data key="d9">6.0</data>
+      <data key="d10">Aunt Julia and Aunt Kate are sisters who serve as hostesses at a gathering, where they are honored for their contributions to the family dynamic and pride in their heritage. During the event, they share a moment of emotional connection during a toast, highlighting their close familial ties and responsibilities. The two engage in conversation about the weather and the significance of snow, further demonstrating their bond. Additionally, they work collaboratively to serve drinks to the gentlemen, showcasing their teamwork. Aunt Kate also defends Aunt Julia's past singing ability, expressing frustration about the treatment of women in choirs, which underscores their supportive relationship and shared experiences as women in their family.</data>
+      <data key="d11">74edee0aca1c07d8499ca7f4c79d0589,9eee0c4efd1613f29f61083555090aff,a47ff28731d3048e51920471b64f324e,af80a88522f1be9faeed04228c491179,e732ac8b819be30fbb0bd15a658d39e3,ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d13">67</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT JULIA&quot;" target="&quot;MR. BROWNE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne humorously introduces Aunt Julia, showcasing his role in the social dynamics of the event."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d13">68</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT JULIA&quot;" target="&quot;THE PUDDING&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Aunt Julia prepares The Pudding, which is a focal point of the family gathering, symbolizing her role in the household."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d13">69</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT KATE&quot;" target="&quot;MRS. CONROY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mrs. Conroy and Aunt Kate interact during the gathering, discussing family matters and showing mutual concern for the children."</data>
+      <data key="d11">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d12">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d13">70</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT KATE&quot;" target="&quot;PARKINSON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Aunt Kate reminisces about Parkinson, highlighting his significance in the history of singing and her personal connection to him."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d13">71</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT KATE&quot;" target="&quot;MR. BROWNE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne engages Aunt Kate in conversation about the monks, indicating a dynamic interaction between them."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d13">72</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;AUNT KATE&quot;" target="&quot;MR. BARTELL D'ARCY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Aunt Kate expresses concern for Mr. D'Arcy's health, indicating a caring relationship."</data>
+      <data key="d11">af80a88522f1be9faeed04228c491179</data>
+      <data key="d12">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d13">73</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BROWNE&quot;" target="&quot;MISS DALY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne interacts with Miss Daly and the other young ladies, attempting to entertain them during the gathering."</data>
+      <data key="d11">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d12">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d13">74</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BROWNE&quot;" target="&quot;THE DANCE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne participates in The Dance, engaging with other characters and contributing to the social atmosphere."</data>
+      <data key="d11">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d13">75</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BROWNE&quot;" target="&quot;MISS JULIA MORKAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne introduces Miss Julia Morkan to others, showcasing her talent and creating a moment of recognition."</data>
+      <data key="d11">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d12">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d13">76</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BROWNE&quot;" target="&quot;MOUNT MELLERAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Browne expresses incredulity about the practices of the monks at Mount Melleray, showing his engagement with the topic."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">14555b518e954637b83aa762dc03164e</data>
+      <data key="d13">77</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS POWER&quot;" target="&quot;MR. KERRIGAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Kerrigan is asked to take Miss Power as a partner for the dance, indicating their involvement in the event."</data>
+      <data key="d11">ee37cc4e74e3571d2beb941cbfd81b56</data>
+      <data key="d12">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d13">78</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE GRESHAM&quot;" target="&quot;THE GATHERING&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Gathering is a family event that leads Gabriel to book a room at The Gresham, indicating a need for accommodation after the event."</data>
+      <data key="d11">7960b928f79f9d05de188396f541c52f</data>
+      <data key="d12">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d13">79</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE GATHERING&quot;" target="&quot;THE MILITARY REVIEW&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Gathering serves as a backdrop for the stories and events related to the Military Review, connecting family interactions with the larger narrative."</data>
+      <data key="d11">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d12">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d13">80</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CONSTANTINE&quot;" target="&quot;BALBRIGGAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Constantine's role as a senior curate in Balbriggan connects him to Gabriel's family history and expectations."</data>
+      <data key="d11">9eee0c4efd1613f29f61083555090aff</data>
+      <data key="d12">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d13">81</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MISS IVORS&quot;" target="&quot;ARAN ISLES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss Ivors invites Gabriel to join her on an excursion to the Aran Isles, highlighting her enthusiasm for exploring Ireland."</data>
+      <data key="d11">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d12">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d13">82</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FREDDY MALINS' MOTHER&quot;" target="&quot;GLASGOW&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Freddy Malins' Mother lives in Glasgow and visits Dublin, indicating her connection to both locations."</data>
+      <data key="d11">80ccabbf5689631aa0c6338e17c02e09</data>
+      <data key="d12">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d13">83</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;CHRISTMAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The mention of Christmas relates to the cultural context of Ireland, particularly regarding the significance of snow during the holiday season."</data>
+      <data key="d11">af80a88522f1be9faeed04228c491179</data>
+      <data key="d12">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d13">84</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;BOG OF ALLEN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ireland encompasses the Bog of Allen, which is a specific area within its geographical boundaries experiencing snowfall."</data>
+      <data key="d11">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d12">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d13">85</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;SHANNON WAVES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ireland includes the Shannon Waves, which are part of its geographical landscape affected by the snowfall."</data>
+      <data key="d11">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d12">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d13">86</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;MICHAEL FUREY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Michael Furey's burial in Ireland connects him to the broader geographical context of the snowfall described."</data>
+      <data key="d11">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d12">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d13">87</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MRS. MALINS&quot;" target="&quot;GALWAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mrs. Malins expresses a desire to visit Galway, indicating her fondness for the location and its beauty."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d13">88</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MRS. MALINS&quot;" target="&quot;SCOTLAND&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mrs. Malins shares her experiences of visiting Scotland, highlighting her connection to the location and its scenery."</data>
+      <data key="d11">43a45e2e64b263da94f656d6ed01d42f</data>
+      <data key="d12">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d13">89</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GALWAY&quot;" target="&quot;MICHAEL FUREY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Michael Furey is associated with Galway, where he lived and had a relationship with Gretta, making the location significant to his story."</data>
+      <data key="d11">7a3a966658fbc8e6b4ebd8f4c42b5e18</data>
+      <data key="d12">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d13">90</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;SUPPER&quot;" target="&quot;THE CHOIR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The discussion about the choir occurs during the preparation for supper, linking the meal to the themes of music and tradition."</data>
+      <data key="d11">a47ff28731d3048e51920471b64f324e</data>
+      <data key="d12">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d13">91</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BARTELL D'ARCY&quot;" target="&quot;THEATRE ROYAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Bartell D'Arcy is associated with the opera company performing at the Theatre Royal, indicating his professional connection."</data>
+      <data key="d11">e732ac8b819be30fbb0bd15a658d39e3</data>
+      <data key="d12">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d13">92</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BARTELL D'ARCY&quot;" target="&quot;CARUSO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Bartell D'Arcy compares contemporary singers to Caruso, indicating the high standards of singing he represents."</data>
+      <data key="d11">7906b6918bb14683bf565df106d781f0</data>
+      <data key="d12">101572f552b54e529fe7765c05168981</data>
+      <data key="d13">93</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BARTELL D'ARCY&quot;" target="&quot;MISS O'CALLAGHAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miss O'Callaghan supports Mary Jane in encouraging Mr. D'Arcy to sing, showing a connection between them."</data>
+      <data key="d11">af80a88522f1be9faeed04228c491179</data>
+      <data key="d12">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d13">94</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MR. BARTELL D'ARCY&quot;" target="&quot;O'CONNELL BRIDGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Bartell D'Arcy participates in the conversation about O'Connell Bridge, showing his involvement in local lore and social interactions."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">ad1595a78935472999444c9330e7730e</data>
+      <data key="d13">95</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;JOHNNY&quot;" target="&quot;THE MILITARY REVIEW&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Johnny's role in the humorous incident is directly related to the Military Review event, showcasing a comedic twist in the narrative."</data>
+      <data key="d11">a9f8ae681881b43894ea5064b2b782c3</data>
+      <data key="d12">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d13">96</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;O'CONNELL BRIDGE&quot;" target="&quot;THE PALACE OF THE FOUR COURTS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Palace of the Four Courts is a notable landmark visible from O'Connell Bridge, contributing to the setting of the narrative."</data>
+      <data key="d11">a8821a58bc087f9e98de50f921db9517</data>
+      <data key="d12">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d13">97</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MALINS&quot;" target="&quot;BROWNE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Malins is associated with Browne, suggesting a potentially negative influence on his character as perceived by Gabriel."</data>
+      <data key="d11">7805ef6e8dfc08888e1ce53da8b8b565</data>
+      <data key="d12">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d13">98</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MICHAEL FUREY&quot;" target="&quot;OUGHTERARD&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Michael Furey is buried in Oughterard, linking his memory to this location and the theme of loss."</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d12">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d13">99</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MICHAEL FUREY&quot;" target="&quot;THE CHURCHYARD&quot;">
+      <data key="d9">3.0</data>
+      <data key="d10">Michael Furey lies buried in The Churchyard, which serves as his final resting place and symbolizes the profound impact of his death on those who remain. The imagery of snow falling on Michael Furey's grave in The Churchyard evokes a sense of peace and melancholy, further linking him to this location. This connection emphasizes the significance of both the individual and the site, highlighting the emotional resonance of his passing.</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591,c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d12">80020a1da63042459e00266b2a605452</data>
+      <data key="d13">100</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;OUGHTERARD&quot;" target="&quot;THE CHURCHYARD&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Churchyard is located in Oughterard, linking the burial site of Michael Furey to the geographical location."</data>
+      <data key="d11">83cea6a5f28a6ec4d8a3832c06ec4591</data>
+      <data key="d12">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d13">101</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;BOG OF ALLEN&quot;" target="&quot;SHANNON WAVES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Both the Bog of Allen and the Shannon Waves are locations in Ireland experiencing the same snowfall, linking them through the shared weather event."</data>
+      <data key="d11">c3926e9498f8897504ab7ff4ba2cdc51</data>
+      <data key="d12">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d13">102</data>
+      <data key="d14">1</data>
+    </edge>
+  </graph>
+</graphml>
